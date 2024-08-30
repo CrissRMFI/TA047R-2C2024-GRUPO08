@@ -1,4 +1,5 @@
-Introducción
+## Introducción
+
 En este trabajo práctico se propone que cada grupo de alumnos se enfrente a diferentes
 problemas de ciencia de datos y que pueda resolverlos aplicando los contenidos que se ven en
 la materia.
