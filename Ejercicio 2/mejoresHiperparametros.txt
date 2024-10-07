@@ -1,6 +1,0 @@
-min_samples_split: 17
-min_samples_leaf: 18
-max_features: 0.5
-max_depth: 14
-criterion: 'gini'
-ccp_alpha: 0.0035714285714285718
